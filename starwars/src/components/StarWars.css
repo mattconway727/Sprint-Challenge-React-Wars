@@ -1,0 +1,15 @@
+.chars-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-wrapper {
+  height: auto;
+  width: 33.333%;
+  background: #333333;
+  border-radius: 4px;
+  border: 1px solid red;
+  padding: 30px;
+}
