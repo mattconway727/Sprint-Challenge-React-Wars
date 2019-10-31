@@ -3,9 +3,10 @@ import Char from "./Char";
 import "./StarWars.css";
 
 const StarwarsChars = props => {
+  console.log(props.stars[0]);
   return (
     <div className="chars-wrapper">
-      {props.chars.map(char => (
+      {props.stars.map(char => (
         <Char key={char.name} char={char} />
       ))}
     </div>
