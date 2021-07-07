@@ -43,15 +43,15 @@ Follow these steps to set up and work on your project:
 - [ ] Change directories into `./starwars` (`cd starwars`) and run `yarn install` to retrieve all needed dependencies.
 - [ ] Once you have installed the _node_modules_, run `yarn start or` to get your server up and running.
 - [ ] With the server up and running, open Chrome and head over to `localhost:3000` and view your beautiful app. Maybe it's not _that_ pretty... _yet_, your goal is to ensure this project becomes a thing of beauty.
-Follow these steps for completing your project.
+      Follow these steps for completing your project.
 - [ ] Implement the project on this Branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo).
 - [ ] Add your Project Manager as a Reviewer on the Pull-request.
-- [ ] PM then will count the HW as done by  merging the branch back into master.
+- [ ] PM then will count the HW as done by merging the branch back into master.
 
 Please note:
 
@@ -84,7 +84,6 @@ Your data set will look like this:
 
 ![Star Wars state data](starwars_data.png)
 
-
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
@@ -99,8 +98,7 @@ Required best practices:
 - [ ] Consistent spacing. Examples: line breaks, around arguments and before/after functions.
 - [ ] Consistent quotation usage.
 - [ ] Spell-check.
-- [ ] Schedule time to review, refine and reassess your work.
-
+- [ ] Schedule time to review, refine and reassess your work.I'm
 
 It is better to submit a challenge that meets [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) than one that attempts too much and fails.
 
